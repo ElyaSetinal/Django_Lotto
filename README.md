@@ -1,9 +1,10 @@
 # Django_Lotto
 
 [The Origin] 백엔드 개발자 취업 아카데미 with Django
+
 1차 과제 : 로또 번호 추출기
 
-- Folder Description
+<Folder Description>
 
 Basic : Basic Mission
  - 사용자가 웹사이트에 접속하여 ‘로또 번호 추출하기’ 버튼을 클릭 시 [1, 5, 30, 21, 20, 40, 45] 형태의 로또번호가 출력
